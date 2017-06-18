@@ -1,0 +1,3 @@
+[submodule "talk-python-fixtures"]
+	path = talk-python-fixtures
+	url = git@github.com:crlane/talk-python-fixtures.git
