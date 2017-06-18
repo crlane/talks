@@ -4,3 +4,6 @@
 [submodule "talk-python-encode-decode"]
 	path = talk-python-encode-decode
 	url = git@github.com:crlane/talk-python-encode-decode.git
+[submodule "talk-python-division"]
+	path = talk-python-division
+	url = git@github.com:crlane/talk-python-division.git
