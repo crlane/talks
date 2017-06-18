@@ -19,3 +19,6 @@
 [submodule "talk-python-speed"]
 	path = talk-python-speed
 	url = git@github.com:crlane/talk-python-speed.git
+[submodule "talk-python-string-translation"]
+	path = talk-python-string-translation
+	url = git@github.com:crlane/talk-python-string-translation.git
