@@ -7,3 +7,9 @@
 [submodule "talk-python-division"]
 	path = talk-python-division
 	url = git@github.com:crlane/talk-python-division.git
+[submodule "talk-python-memory-management"]
+	path = talk-python-memory-management
+	url = git@github.com:crlane/talk-python-memory-management.git
+[submodule "talk-python-packaging"]
+	path = talk-python-packaging
+	url = git@github.com:crlane/talk-python-packaging.git
