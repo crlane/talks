@@ -22,3 +22,6 @@
 [submodule "talk-python-string-translation"]
 	path = talk-python-string-translation
 	url = git@github.com:crlane/talk-python-string-translation.git
+[submodule "talk-python-trie"]
+	path = talk-python-trie
+	url = git@github.com:crlane/talk-python-trie.git
