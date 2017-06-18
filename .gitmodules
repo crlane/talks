@@ -25,3 +25,6 @@
 [submodule "talk-python-trie"]
 	path = talk-python-trie
 	url = git@github.com:crlane/talk-python-trie.git
+[submodule "talk-python-reverse-engineer"]
+	path = talk-python-reverse-engineer
+	url = git@github.com:crlane/talk-python-reverse-engineer.git
